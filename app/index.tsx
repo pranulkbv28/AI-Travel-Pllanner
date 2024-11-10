@@ -7,7 +7,9 @@ export default function Index() {
         flex: 1,
       }}
     >
-      <Text>Initial Expo App</Text>
+      <Text style={{ fontSize: 30, fontFamily: "outfit" }}>
+        Changes in the index file.
+      </Text>
     </View>
   );
 }
